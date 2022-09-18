@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @12kr34is56
 - 👀 I’m interested in programming
 - 🌱 I’m currently enrolled in Bca online course
-- 💞️ I’m looking to collaborate on new technology
+- 💞️ I’m looking to collaborate on backend or frontend
 - 📫 How to reach me with the help of github id
 
 <!---
